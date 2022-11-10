@@ -5,8 +5,6 @@
 
 # How to run the code
 
-We have provided scripts to execute the code. 
-
 Use `run.sh` if you are Linux/Unix/macOS Operating systems and `run.bat` if you are on Windows.
 
 Internally both the scripts run the following commands 
